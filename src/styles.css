@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+.line
+{
+  width: 80px;
+  height: 5px;
+  background-color:#ffffff;
+
+}
+
+.main
+{
+  background-color: #1ABC9C;
+  color: rgb(255, 255, 255);
+
+
+}

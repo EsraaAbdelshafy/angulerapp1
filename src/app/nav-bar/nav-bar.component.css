@@ -1,0 +1,9 @@
+.navbar 
+{
+    background-color: #2C3E50;
+}
+.item
+{
+    background-color: #1ABC9C;
+    color: hsl(0, 0%, 100%);
+}
